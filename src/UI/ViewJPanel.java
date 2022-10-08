@@ -427,7 +427,7 @@ public class ViewJPanel extends javax.swing.JPanel {
        //history.updateNewEmployee(selectedEmployee);
         
         //update message display
-        JOptionPane.showMessageDialog(this, "Updated successfully");
+        JOptionPane.showMessageDialog(this, "Updated successfully.");
         
         
         }
